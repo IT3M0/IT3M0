@@ -1,8 +1,10 @@
-### Hello there I am Nathan Sang👋
+### Hello there, I am Nathan Sang👋
 
+** About Me
+
+- ⚡ Fun fact: 
+- 📫 How to reach me: nathan.sang2015@gmail.com
 <!--
-**IT3M0/IT3M0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: nathan.sang2015@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
