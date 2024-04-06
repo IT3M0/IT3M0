@@ -1,6 +1,6 @@
 ### Hello there, I am Nathan Sang👋
 
-** About Me
+## About Me
 
 - ⚡ Fun fact: 
 - 📫 How to reach me: nathan.sang2015@gmail.com
