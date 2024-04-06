@@ -2,7 +2,7 @@
 
 ## About Me
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am passionate about Front-End Development and HCI
 - 📫 How to reach me: nathan.sang2015@gmail.com
 <!--
 Here are some ideas to get you started:
