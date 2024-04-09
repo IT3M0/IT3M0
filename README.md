@@ -1,9 +1,10 @@
-### Hello there, I am Nathan Sang👋
+### Hello there, I am Nathan Sang 👋
 
 ## About Me
 
 - ⚡ Fun fact: I am passionate about Front-End Development and HCI
 - 📫 How to reach me: nathan.sang2015@gmail.com
+- 📫 Access my portfolio here: https://github.com/nathanimmanuelsang
 <!--
 Here are some ideas to get you started:
 
