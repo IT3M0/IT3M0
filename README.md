@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact: I am passionate about Front-End Development and HCI
 - 📫 How to reach me: nathan.sang2015@gmail.com
-- 📫 Access my portfolio here: https://github.com/nathanimmanuelsang
+- 📫 Access my portfolio here: https://nathanimmanuelsang.github.io
 <!--
 Here are some ideas to get you started:
 
